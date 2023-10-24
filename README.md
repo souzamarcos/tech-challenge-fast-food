@@ -1,6 +1,12 @@
 # Tech Challenge FIAP - Burger
 Projeto da pós graduação da FIAP de Arquitetura de Software
 
+# Repositórios
+* [Aplicação](https://github.com/souzamarcos/tech-challenge-fast-food)
+* [Infraestrutura Terraform](https://github.com/souzamarcos/tech-challenge-terraform)
+* [Configuração do Kubernetes](https://github.com/souzamarcos/tech-challenge-kubernetes)
+* [Lambda de Autenticação](https://github.com/souzamarcos/tech-challenge-authentication-lambda)
+
 ## Design / Módulos
 
 ![Design dos módulos da aplicação](static/design_aplicacao.png)
